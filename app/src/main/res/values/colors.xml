@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFECB3</color> <!-- Light Yellow -->
+    <color name="button_color">#FF9800</color> <!-- Orange -->
+    <color name="result_color">#388E3C</color> <!-- Green -->
+    <color name="primary_text">#3E2723</color> <!-- Dark Brown -->
+    <color name="accent_color">#FF5722</color> <!-- Deep Orange -->
+    <color name="error_color">#D32F2F</color> <!-- Red for Errors -->
+    <color name="footer_color">#9E9E9E</color> <!-- Red for Errors -->
+    <color name="colorPrimaryDark">#3F51B5</color> <!-- Example for colorPrimaryDark -->
+
+</resources>
+
